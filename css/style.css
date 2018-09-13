@@ -1,0 +1,17 @@
+body {
+	font-family: serif;
+	font-size: 2em;
+}
+
+.image {
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.info {
+	justify-content: space-around;
+}
