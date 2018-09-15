@@ -4,14 +4,26 @@ body {
 }
 
 .image {
+	width: 100%;
+	height: 300px;
+	background-color: #DE8AAD;
+	margin: auto;
+	display: flex;
+	align-content: center;
+	justify-content: space-around;
+}
+
+.kitty {
 	width: 400px;
 	height: 200px;
 	border: 1px solid black;
-	margin: auto;
-	display: flex;
 	justify-content: space-around;
 }
 
 .info {
+	width: 50%;
+	height: 100px;
+	display: flex;
 	justify-content: space-around;
+	align-content: center;
 }
