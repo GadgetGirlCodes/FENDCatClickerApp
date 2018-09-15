@@ -1,7 +1,7 @@
 const kittyCatOne = document.querySelector('#one');
 const kittyCatTwo = document.querySelector('#two');
-const clickyWordsOne = document.querySelector('.clickyWordsOne');
-const clickyWordsTwo = document.querySelector('.clickyWordsTwo');
+const clickyWordsOne = document.querySelector('#uno');
+const clickyWordsTwo = document.querySelector('#dos');
 let numOfOne = 0;
 let numOfTwo = 0;
 
