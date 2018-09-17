@@ -3,31 +3,33 @@ body {
 	font-size: 2em;
 }
 
-.image {
+section {
 	width: 100%;
-	height: 300px;
 	background-color: #DE8AAD;
 	margin: auto;
 	display: flex;
+	justify-content: space-around;
 }
 
 .kitty {
 	width: 400px;
 	height: 200px;
 	border: 1px solid black;
-	justify-content: space-around;
+	margin: 20px;
+	padding: 20px;
 }
 
 .info {
-	width: 100%;
-	height: 100px;
-	display: flex;
-	text-align: center;
+	background-color: #D67FFF;
+	align-content: center;
 }
 
 .clickyWords {
 	width: 400px;
-	height: 100px;
-	justify-content: space-between;
+	border: 1px solid black;
+	margin: 20px;
+	padding: 20px;
+	justify-content: space-around;
 	text-align: center;
+	align-content: center;
 }
